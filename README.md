@@ -37,10 +37,10 @@ This repo is the product of an excercise in learning SCRUM methodology, in which
 | 7:00 PM   | Eat Dinner at Etto            | 2 hours     |
 
 ### Expenses
-* Lunch: $20
-* Dinner: $20
+* Lunch: $20/person
+* Dinner: $20/person
 
-Total: > $240
+Total: $240
 
 ## Day 2 Schedule
 
