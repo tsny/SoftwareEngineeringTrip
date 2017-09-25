@@ -143,30 +143,30 @@ The White House tour is free. Georgetown involves shopping and prices vary a lot
 
 Total comes to approximately $120/person = $600 total
 
-##Day 4 Overview
+## Day 4 Overview
 
-###Expenses
+### Expenses
   Budget is per person.
   Total=$550
 
-####Food
+#### Food
 
 | Meal    | Budget | Where      |
-| ------- |:------:| -----------|
+|---------|:------:|:----------:|
 |Breakfast|$5      |Whole Foods |
 |Lunch    |$15     |Union Station Food Court|
 |Dinner   |$70     |The Partisan|
 
   Total = $450
-####Activities
+#### Activities
       All of the days activities are free, but $50 has been budgeted  a day for activities. So I took half of the activity budget for the day and put it to dinner(because the place is expensive), and $5 to lunch. Leaves $20 to spend how individual sees fit.
 Souvenirs=$20
 Total=$100
 
-###Schedule
+### Schedule
 
 |Time     |Event                    |Notes              |
-| ------ :|---------------------    |-------------------|
+|---------|:-----------------------:|:-----------------:|
 |7:00 AM  |Wake Up, Go get breakfast|Only 1 person has to go get breakfast .  |
 |9:20 AM  |Leave for Day            |Travel takes ~30 mins. Winter so add extra time.|
 |~10:00 AM|Arrive at Lib of Congress|Only Public Tours so have to arrive early. |
@@ -181,7 +181,7 @@ Total=$100
 |~6:30 PM |Go Home                  |Approximately 20 minute travel time.
 |~7:00 PM |Arrive Home              |                   |
 
-####Directions
+#### Directions
 
 From BnB to Library of Congress
 1. Head north on 15th St NW
@@ -220,11 +220,11 @@ From The Partisan to BnB
 7. Turn right onto 15th st NW
 8. Destination on left
 
-###Confirmations
+### Confirmations
 [US Capitol Tour Reservation](../Confimations/Day4/US_Capitol.pdf)
 [The Partisan Dinner Reservation](../Confirmations/Day4/The_Partisan.)
 
-##Day 5 Schedule
+## Day 5 Schedule
 | Time      | Event                         | Duration    |
 |-----------|:-----------------------------:|:-----------:|
 | 4:15 AM   | Take Metro to Airport         | 45 minutes  |
@@ -236,7 +236,7 @@ From The Partisan to BnB
 | 1:00 PM   | Drive Home                    | 2 hours     |
 
 
-##Cost Summary
+## Cost Summary
 * Airbnb: $651.02
 * Metro cards: $369
 * Airline tickets: $1,627.50
