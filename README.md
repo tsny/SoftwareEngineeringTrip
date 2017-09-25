@@ -221,8 +221,8 @@ From The Partisan to BnB
 8. Destination on left
 
 ### Confirmations
-[US Capitol Tour Reservation](../Confimations/Day4/US_Capitol.pdf)
-[The Partisan Dinner Reservation](../Confirmations/Day4/The_Partisan.)
+[US Capitol Tour Reservation](./capitol-tour.png)
+[The Partisan Dinner Reservation](./Parisan_Res.png)
 
 ## Day 5 Schedule
 | Time      | Event                         | Duration    |
