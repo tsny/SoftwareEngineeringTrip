@@ -19,7 +19,7 @@ This repo is the product of an excercise in learning SCRUM methodology, in which
   * dress code for day 3 is "business casual"
 * Phone & Charger
 * Toothbrush
-* Enough empty space to pack souvenirs on the return trip
+* Enough empty space to pack souvenirs on the return trip 
 
 ## Day 1 Schedule
 | Time      | Event                         | Duration    |
