@@ -1,5 +1,7 @@
 # Software Engineering Trip
 
+This repo is the product of an excercise in learning SCRUM methodology, in which we plan a trip to Washington, DC.
+
 ## Items to Bring
 
 ### Buy
@@ -19,11 +21,9 @@
 * Toothbrush
 * Enough empty space to pack souvenirs on the return trip
 
-This repo is the product of an excercise in learning SCRUM methodology, in which we plan a trip to Washington, DC.
-
 ## Day 1 Schedule
 | Time      | Event                         | Duration    |
-|-----------|:-----------------------------:|:-----------:|
+|-----------|-------------------------------|:-----------:|
 | 1:00 AM   | Drive to Saint Louis          | 2 hours     |
 | 5:00 AM   | Fly to Washington             | 2 hours     |
 | N/A       | Time Zone Jump                | 1 hour      |
@@ -45,7 +45,7 @@ Total: > $240
 ## Day 2 Schedule
 
 | Time      | Event                         | Duration    |
-|-----------|:-----------------------------:|:-----------:|
+|-----------|-------------------------------|:-----------:|
 | 7:45 AM   | Wake Up, Get Ready, Eat       | One hour    |
 | 8:45 AM   | Walk to the metro             | 20 minutes  |
 | 9:05 AM   | Wait for metro                | 10 minutes  |
@@ -93,7 +93,7 @@ Total comes to approximately $95/person = $475 total
 ## Day 3 Schedule
 
 | Time      | Event                         | Duration    |
-|-----------|:-----------------------------:|:-----------:|
+|-----------|-------------------------------|:-----------:|
 | 9:30 AM   | Ride Bus                      | 15 minutes  |
 | 10:00 AM  | White House Tour              | 1 hour      |
 | 11:00 AM  | Ride Metro                    | 20 minutes  |
@@ -152,7 +152,7 @@ Total comes to approximately $120/person = $600 total
 #### Food
 
 | Meal    | Budget | Where      |
-|---------|:------:|:----------:|
+|---------|--------|------------|
 |Breakfast|$5      |Whole Foods |
 |Lunch    |$15     |Union Station Food Court|
 |Dinner   |$70     |The Partisan|
@@ -166,7 +166,7 @@ Total=$100
 ### Schedule
 
 |Time     |Event                    |Notes              |
-|---------|:-----------------------:|:-----------------:|
+|---------|-------------------------|-------------------|
 |7:00 AM  |Wake Up, Go get breakfast|Only 1 person has to go get breakfast .  |
 |9:20 AM  |Leave for Day            |Travel takes ~30 mins. Winter so add extra time.|
 |~10:00 AM|Arrive at Lib of Congress|Only Public Tours so have to arrive early. |
@@ -226,7 +226,7 @@ From The Partisan to BnB
 
 ## Day 5 Schedule
 | Time      | Event                         | Duration    |
-|-----------|:-----------------------------:|:-----------:|
+|-----------|-------------------------------|:-----------:|
 | 4:15 AM   | Take Metro to Airport         | 45 minutes  |
 | 7:00 AM   | Fly to CLT                    | 1.5 hours   |
 | 8:30 AM   | Layover                       | 2.75 hours  |
