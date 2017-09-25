@@ -39,8 +39,11 @@ This repo is the product of an excercise in learning SCRUM methodology, in which
 ### Expenses
 * Lunch: $20/person
 * Dinner: $20/person
+* The Parking Spot total cost: $83.55
+* Gas money: $10
+* Metro Passes: $73.80
 
-Total: $240
+Total: $367.35
 
 ## Day 2 Schedule
 
