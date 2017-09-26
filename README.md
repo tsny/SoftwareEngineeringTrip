@@ -1,4 +1,5 @@
-# Software Engineering Trip
+# Software Engineering Trip - Washington DC
+![Alt text](http://cdn.history.com/sites/2/2013/11/Washington-DC-hero-H.jpeg "Optional Title")
 
 This repo is the product of an excercise in learning SCRUM methodology, in which we plan a trip to Washington, DC.
 
